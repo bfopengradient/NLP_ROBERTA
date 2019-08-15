@@ -1,5 +1,5 @@
  
-Testing Facebook & Washington University's new ROBERTA model. 
+Testing the new ROBERTA model. 
 
 ROBERTA is a twist on Google's BERT model.
 
@@ -7,7 +7,7 @@ In essence both machine learning models are the best-in-class at reading and und
 
 In the accompanying file of this repo is a quick test of a ROBERTA pre-trained(MNLI) model.  
 
-As background I use neural network models like these to help analyse and classify electronic communications within the financial services industry domain. 
+As background I use neural network models to help analyse and classify electronic communications within the financial services industry domain. 
   
 Link to research paper on Roberta:
 https://arxiv.org/pdf/1907.11692.pdf
