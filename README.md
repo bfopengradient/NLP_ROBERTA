@@ -9,5 +9,5 @@ In the accompanying file of this repo is a quick test of a ROBERTA pre-trained(M
 
 As background I use neural network models like these to help analyse and classify electronic communications within the financial services industry domain. 
   
-link to research paper on Roberta:
+Link to research paper on Roberta:
 https://arxiv.org/pdf/1907.11692.pdf
