@@ -1,9 +1,6 @@
- 
-Testing the new ROBERTA model. 
-
 ROBERTA is a twist on Google's BERT model.
 
-The following adjustments were made by the teams at Facebook and UW to help improve ROBERTA vs BERT.
+The following adjustments were made by the teams at Facebook AI and the University of Washington to help improve ROBERTA vs BERT.
 
 1. Tokens were encoded with byte-level BPE and a vocabulary size of 50,000 sub-word units. There was no additional           preprocessing or tokenization of the inputs. 
 2. The model was trained for longer and on more data with larger batch sizes than BERT.
@@ -12,10 +9,9 @@ The following adjustments were made by the teams at Facebook and UW to help impr
 5. The loss function for the next sentence prediction was dropped. 
 6. The Adam optimiser’s second moment was slightly lowered to help stabilise the model whilst training with larger batch sizes. Scientists also found training was very sensitive to  the magnitude of the Adam epsilon parameter.
 
-
-In essence both machine learning models are the best-in-class at reading and understanding language. From that baseline they can be fine-tuned to carry out multiple tasks including classifying emails,interpreting social media content or any content input to browsers, etc.
+In essence, both machine learning models are the best-in-class at reading and understanding language.  
 
 In the accompanying file of this repo is a quick test of a ROBERTA pre-trained(MNLI) model.  
 
-As background I use neural network models to help analyse and classify electronic communications within the financial services industry domain. 
+As background, I work with machine learning models to help analyse and classify electronic communications within the financial services industry domain. 
    
