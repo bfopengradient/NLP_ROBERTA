@@ -13,7 +13,7 @@ The following adjustments were made by the teams at Facebook and UW to help impr
 6. The Adam optimiser’s second moment was slightly lowered to help stabilise the model whilst training with larger batch sizes. Scientists also found training was very sensitive to  the magnitude of the Adam epsilon parameter.
 
 
-In essence both machine learning models are the best-in-class at reading and understanding language. From that basis they can be fine-tuned to carry out multiple tasks including classifying emails, social media content or any content input to browsers, etc.
+In essence both machine learning models are the best-in-class at reading and understanding language. From that baseline they can be fine-tuned to carry out multiple tasks including classifying emails,interpreting social media content or any content input to browsers, etc.
 
 In the accompanying file of this repo is a quick test of a ROBERTA pre-trained(MNLI) model.  
 
