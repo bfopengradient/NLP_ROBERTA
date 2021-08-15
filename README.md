@@ -14,4 +14,6 @@ In essence, both machine learning models are the best-in-class at reading and un
 In the accompanying file of this repo is a quick test of a ROBERTA pre-trained(MNLI) model.  
 
 As background, I work with machine learning models to help analyse and classify electronic communications within the financial services industry domain. 
+
+Aug/2019
    
